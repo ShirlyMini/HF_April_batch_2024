@@ -1,0 +1,13 @@
+# [section]
+# key=value
+
+[common data]
+url=https://opensource-demo.orangehrmlive.com/
+username=Admin
+password=admin
+
+[driver path]
+chrome_driver=E:\selenium\drivers\chromedriver.exe
+chrome_driver_beta=E:\selenium\drivers\beta\chromedriver.exe
+edge_driver=E:\selenium\drivers\msedgedriver.exe
+firefox_driver=E:\selenium\drivers\geckodriver.exe
