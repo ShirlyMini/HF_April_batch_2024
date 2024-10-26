@@ -1,0 +1,26 @@
+2024-10-26 09:46:51,603::INFO::NopCommerce Application launched successfully..
+2024-10-26 09:46:57,986::INFO::OrangeHRM Application logged in successfully..
+2024-10-26 09:46:58,348::INFO::Dashboard
+2024-10-26 09:46:58,348::INFO::TC:test_verify_dashboardpage_ddt = PASS
+2024-10-26 09:47:15,881::INFO::NopCommerce Application launched successfully..
+2024-10-26 09:47:23,927::INFO::OrangeHRM Application logged in successfully..
+2024-10-26 09:47:33,951::INFO::False
+2024-10-26 09:47:33,952::INFO::TC:test_verify_dashboardpage_ddt = PASS
+2024-10-26 09:47:50,605::INFO::NopCommerce Application launched successfully..
+2024-10-26 09:47:56,768::INFO::OrangeHRM Application logged in successfully..
+2024-10-26 09:48:06,810::INFO::False
+2024-10-26 09:48:06,811::INFO::TC:test_verify_dashboardpage_ddt = PASS
+2024-10-26 09:48:27,178::INFO::NopCommerce Application launched successfully..
+2024-10-26 09:48:36,236::INFO::OrangeHRM Application logged in successfully..
+2024-10-26 09:48:46,295::INFO::False
+2024-10-26 09:48:46,296::INFO::TC:test_verify_dashboardpage_ddt = PASS
+2024-10-26 09:49:04,177::INFO::NopCommerce Application launched successfully..
+2024-10-26 09:49:12,545::INFO::OrangeHRM Application logged in successfully..
+2024-10-26 09:49:28,325::INFO::TC:test_verify_Recuirtment_basic = PASS
+2024-10-26 09:49:45,040::INFO::NopCommerce Application launched successfully..
+2024-10-26 09:49:45,065::INFO::OrangeHRM
+2024-10-26 09:49:45,079::INFO::TC:test_verify_loginpage_title = PASS
+2024-10-26 09:50:08,128::INFO::NopCommerce Application launched successfully..
+2024-10-26 09:50:16,365::INFO::OrangeHRM Application logged in successfully..
+2024-10-26 09:50:16,400::INFO::Dashboard
+2024-10-26 09:50:16,401::INFO::TC:test_verify_dashboardpage = PASS
